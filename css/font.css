@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+
+/* ===== DungGeunMo ===== */
+@font-face {
+    font-family: 'DungGeunMo';
+    src: url('./font/DungGeunMo.eot');
+    src: url('./font/DungGeunMo.eot') format('embedded-opentype'),
+         url('./font/DungGeunMo.woff') format('svg'),
+         url('./font/DungGeunMo.woff') format('woff'),
+         url('./font/DungGeunMo.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
